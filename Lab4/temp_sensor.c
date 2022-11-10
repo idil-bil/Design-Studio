@@ -4,8 +4,8 @@
 
 /*
 Authors:
-    Kerem Oktay 56121882
-    Idil Bil 21344189
+    Kerem Oktay
+    Idil Bil
 
 Functionality:
     By using a temperature sensor and ADC, get temperature values from 8051
