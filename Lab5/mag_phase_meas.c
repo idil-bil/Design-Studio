@@ -1,7 +1,7 @@
 /*
 Authors:
-	Kerem Oktay 56121882
-	Idil Bil 21344189
+	Kerem Oktay 
+	Idil Bil 
 Functionality:
 	Measures the rms voltages values, frequency and phase shift of two signals
 	One signals is used as reference while other signal is tested
