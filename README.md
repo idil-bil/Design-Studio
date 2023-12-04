@@ -12,12 +12,12 @@ ELEC 291 - Electrical Engineering Design Studio (January - March 2022)
 - https://drive.google.com/file/d/1TT8ZiODQRdVD90m_qBPbAf5wr3rY5ROA/view?usp=sharing
 
 ### Lab 3
-- ADCs, SPI, & Data Logging
+- Resistance meter
 - https://drive.google.com/file/d/1KBgUau1gyMz-u31E88V9koNL-vmNnuvU/view?usp=sharing
 
 ### Lab 4
 - [Kerem Oktay](https://github.com/Kerem-Oktay) and [Idil Bil](https://github.com/idil-bil)
-- Capacitance meter
+- ADCs, SPI, & Data Logging
 
 ### Lab 5
 - [Kerem Oktay](https://github.com/Kerem-Oktay) and [Idil Bil](https://github.com/idil-bil)
