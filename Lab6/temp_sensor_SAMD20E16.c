@@ -9,8 +9,8 @@
  * PA19  PAD3  MISO
  *
  * Authors:
- *	Kerem Oktay 56121882
- *	Idil Bil 21344189
+ *	Kerem Oktay
+ *	Idil Bil
  *
  * Functionality:
  *	Temperature sensor
