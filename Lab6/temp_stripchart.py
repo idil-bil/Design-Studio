@@ -1,6 +1,6 @@
 # Authors:
-#   Kerem Oktay 56121882
-#   Idil Bil 21344189
+#   Kerem Oktay
+#   Idil Bil
 #
 # Functionality:
 #   Draws a stripchart from the temperature data flowing in serial comm.
